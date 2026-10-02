@@ -1,5 +1,5 @@
 # ⚠⚠ THIS IS NOT MINE - THIS IS A REUPLOAD ⚠⚠
-This is a reupload of [Quest2Frame by MichaelScottsman](https://github.com/MichaelScottsman/Quest2Frame). It should work just as well though.
+This is a reupload of [Quest2Frame by MichaelScottsman](https://github.com/MichaelScottsman/Quest2Frame). It should work just as well though. There may be other forks/copies of it, but I couldn't find any. So this is mine.
 
 # Quest to Frame
 
