@@ -1,6 +1,8 @@
 # ⚠⚠ THIS IS NOT MINE - THIS IS A REUPLOAD ⚠⚠
 This is a reupload of [Quest2Frame by MichaelScottsman](https://github.com/MichaelScottsman/Quest2Frame). It should work just as well though. There may be other forks/copies of it, but I couldn't find any. So this is mine.
 
+It should already be built maybe. So you can probably skip "Download and prepare the source".
+
 # Quest to Frame
 
 A Windows wizard for backing up a locally connected Quest game, converting it with an independently installed OVR Port CLI, and deploying it to Steam Frame over ADB and SSH. Includes per-game OpenXR resolution controls and optional Steam shortcuts/artwork.
